@@ -1,0 +1,1 @@
+The approval trial uses an isolated scratch pull request.
